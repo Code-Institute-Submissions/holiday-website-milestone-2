@@ -1,0 +1,6 @@
+.contact-image {
+    background-image: url('/assets/images/contact-us-image.jpg');
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+}
