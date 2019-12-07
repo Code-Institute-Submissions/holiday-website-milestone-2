@@ -15,3 +15,12 @@
     width: 100%;
 
 }
+
+
+.footer-text {
+    text-align: center;
+}
+
+.footer-bg {
+    background-color: #f8f9fa;
+}
