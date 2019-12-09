@@ -16,7 +16,7 @@
 
 }
 
-
+/* footer */
 .footer-text {
     text-align: center;
 }
@@ -24,6 +24,8 @@
 .footer-bg {
     background-color: #f8f9fa;
 }
+
+
 
 .scrollbox {
     height: 270px;
@@ -33,7 +35,64 @@
     padding: 10px 
    }
 
+/* map */
 
 #map {
     min-height: 360px;
+}
+
+/* text */
+
+.index-text {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.front-page-text {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+/* media queries */
+
+@media (min-width: 300px) {
+
+    .carousel .image-size {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 12em;
+    }
+
+}
+
+@media (min-width: 768px) {
+
+    .carousel .image-size {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 13em;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .carousel .image-size {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 13em;
+    }
+}
+
+@media (min-width: 1025px) {
+    .carousel .image-size {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 12em;
+    }
 }
