@@ -39,7 +39,9 @@
 
 #map {
     min-height: 360px;
-}
+    }
+
+
 
 /* text */
 
@@ -53,6 +55,12 @@
     text-align: center;
     padding-top: 20px;
     font-size: 20px;
+}
+
+.dest-heading {
+    text-align: center;
+    padding-top: 10px;
+    text-decoration: underline;
 }
 
 /* media queries */
@@ -95,4 +103,12 @@
         overflow: hidden;
         height: 12em;
     }
+}
+
+
+.video {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
 }
