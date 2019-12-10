@@ -63,6 +63,11 @@
     text-decoration: underline;
 }
 
+.contact-info {
+    text-align: center;
+
+}
+
 /* media queries */
 
 @media (min-width: 300px) {
