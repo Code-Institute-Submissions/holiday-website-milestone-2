@@ -9,7 +9,7 @@
 }
 
 .review-image {
-    background-image: url('/assets/images/review-image.jpg');
+    background-image: url('../images/review-image.jpg');
     background-size: cover;
     height: 90vh;
     width: 100%;
