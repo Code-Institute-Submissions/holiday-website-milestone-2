@@ -1,8 +1,10 @@
+(function(){
+    emailjs.init("user_jvqUzv5Q4vQ4CvipeoRUn");
+ })();
+
 function sendForm(contactForm) {
 
-    (function(){
-        emailjs.init("user_jvqUzv5Q4vQ4CvipeoRUn");
-     })();
+  
 
     var info = {
         
