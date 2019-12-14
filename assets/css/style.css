@@ -68,6 +68,12 @@
 
 }
 
+.map-header {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 /* media queries */
 
 @media (min-width: 300px) {
