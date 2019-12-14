@@ -8,6 +8,8 @@ function initMap() {
     });
 
 
+//the below code for the map markers was taken from the resume project in the course and my own locations entered
+
 var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 var locations = [
@@ -59,4 +61,11 @@ google.maps.event.addDomListener(document.getElementById('asia'), 'click', funct
 });
 
 
+
+
+
+    
 }
+
+
+

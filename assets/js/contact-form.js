@@ -15,7 +15,7 @@ function sendForm(contactForm) {
     };
 
 
-    emailjs.send("gmail", "holiday_request",)
+    emailjs.send("gmail", "holiday_request", info)
   
     .then(
         function(response) {
