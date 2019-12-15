@@ -21,10 +21,9 @@
     text-align: center;
 }
 
-.footer-bg {
-    background-color: #f8f9fa;
+.text {
+    color: #ffffff!important;
 }
-
 
 
 .scrollbox {
@@ -73,6 +72,26 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+
+/* background colours */
+
+.main-background {
+    background-color: #ffffff
+}
+
+.alt-bg {
+    background-color:#2f6e91;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:#ffffff;
+}
+
+.scrollbox-bg {
+    background-color: #aed0e0;
+}
+
 
 /* media queries */
 
@@ -123,3 +142,4 @@
     padding-left: 0;
     padding-right: 0;
 }
+
