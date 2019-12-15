@@ -19,10 +19,10 @@ function sendForm(contactForm) {
   
     .then(
         function(response) {
-            return("SUCCESS", response);
+            console.log("SUCCESS", response);
         },
         function(error) {
-            return("FAILED", error);
+            console.log("FAILED", error);
 
 
         }
