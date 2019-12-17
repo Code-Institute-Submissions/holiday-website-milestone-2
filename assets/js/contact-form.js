@@ -18,14 +18,16 @@ function sendForm(contactForm) {
     emailjs.send("gmail", "holiday_request", info)
 
         .then(
-            function (response) {
-                alert("SUCCESS", response);
+            $("#btn1").click(function() { 
+                
+                $('#myModal').modal() 
+                
             },
             function (error) {
                 alert("FAILED", error);
 
 
-            }
+            })
         );
 
 
