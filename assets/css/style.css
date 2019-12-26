@@ -3,7 +3,7 @@
 /* images */
 
 .contact-image {
-  background-image: url("../images/contact-us-image.jpg");
+  background-image: url("../images/overlay.png"), url("../images/contact-us-image.jpg");
   background-size: cover;
   height: 90vh;
   width: 100%;
