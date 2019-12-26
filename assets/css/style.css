@@ -7,15 +7,13 @@
   background-size: cover;
   height: 90vh;
   width: 100%;
-  opacity: 0.8;
 }
 
 .review-image {
-  background-image: url("../images/review-image.jpg");
+  background-image:url("../images/overlay.png"), url("../images/review-image.jpg");
   background-size: cover;
-  height: 90vh;
+  height: 100%;
   width: 100%;
-  opacity: 0.8;
 }
 
 /* footer */
@@ -69,6 +67,7 @@
   text-align: center;
   font-family: "Noto Sans TC", sans-serif;
   font-weight: 500;
+  
 }
 
 .map-header {
@@ -138,4 +137,10 @@
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
+}
+
+
+.chart-body {
+  width: 500px;
+  height: 600px;
 }
