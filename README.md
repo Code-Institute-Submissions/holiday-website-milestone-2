@@ -1,6 +1,6 @@
 # Milestone Project 2 - Funtasia Holiday Website 
 ---
-This website was created for people looking who are looking for a different kind of experience than your standard holiday. The idea behind the site is you will be going to an unknown destination. Essentially paying for everything and showing up on the day with nothing needed, the site will cover everything for you. You will see the 3 most popular continents at the moment, with the most popular cities in the continent. The user can then submit an application and also include information for future destination requests and then we will be in contact with them to go through further details.
+This website was created for people who are looking for a different kind of experience than your standard holiday. The idea behind the site is you will be going to an unknown destination. Essentially paying for everything and showing up on the day with nothing needed, the site will cover everything for you. You will see the 3 most popular continents at the moment, with the most popular cities in the continent. The user can then submit an application and also include information for future destination requests and then we will be in contact with them to go through further details.
 
 [View website on Github Pages](https://liamd88.github.io/holiday-website-milestone-2/)
 
@@ -116,7 +116,7 @@ Then if you want to deploy this link locally you would need to clone the reposit
 * [Lonely Planet](https://www.lonelyplanet.com/asia) This is where I got the text for the information on asia america to use in the destinations page.
 
 ## Media 
-* All images on the web page are from taken from Google
+* All images on the web page are taken from Google
 
 ## Acknowledgements
 * My mentor [Reuben Ferrante](https://github.com/arex18), he really helped me out when needed on this project and his advice helped me to construct the site to what it is.
