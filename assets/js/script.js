@@ -9,7 +9,6 @@ function initMap() { //initialises map
   
     var map = new google.maps.Map(document.getElementById("map"), intialise); // targets the map in destinations.hmtl
   
-  
     var locations = [
   
       //north american locations
@@ -19,24 +18,21 @@ function initMap() { //initialises map
           lng: -74.0060152
         },
   
-  
       }, // new york
       {
         point: {
           lat: 34.0536909,
           lng: -118.2427666
         },
-  
-  
+   
       }, // los angeles
-  
       {
         point: {
           lat: 43.653963,
           lng: -79.387207
         }
       }, //toronto
-  
+
       //european locations
       {
         point: {
@@ -44,14 +40,12 @@ function initMap() { //initialises map
           lng: -0.1276474
         }
       }, //london
-  
       {
         point: {
           lat: 48.8566969,
           lng: 2.3514616
         }
       }, // paris
-  
       {
         point: {
           lat: 40.4167047,
@@ -66,35 +60,30 @@ function initMap() { //initialises map
           lng: 139.7594549
         }
       }, //tokyo
-  
       {
         point: {
           lat: 31.2322735,
           lng: 121.4691749
         }
       }, //shanghai
-  
       {
         point: {
           lat: 22.349215549999997,
           lng: 114.1857978100035
         }
       }, // hong kong
-  
     ];
   
     for (var i = 0; i < locations.length; i++) { //allows to cycle through locations so the markers can be added after 
       addMarker(locations[i]);
     }
-  
-  
+   
     function addMarker(local) { //adds markers to the map
       var marker = new google.maps.Marker({
         position: local.point,
         map: map,
       });
-  
-  
+   
     }
     google.maps.event.addDomListener(document.getElementById('northam'), 'click', function () { // this allows you to click the button above map and center on north america
   
@@ -110,6 +99,5 @@ function initMap() { //initialises map
   
       map.setCenter(new google.maps.LatLng(29.84987535114661, 111.6640090942383));
     });
-  
-  
+   
   }
