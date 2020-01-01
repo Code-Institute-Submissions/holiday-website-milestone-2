@@ -1,4 +1,4 @@
-[View webite on Github Pages](https://liamd88.github.io/holiday-website-milestone-2/)
+[View website on Github Pages](https://liamd88.github.io/holiday-website-milestone-2/)
 
 [Main README File](https://github.com/LiamD88/holiday-website-milestone-2/blob/master/README.md)
 
@@ -9,23 +9,23 @@
     * Website is easy to navigate, not overwhelmed with information.
     * The reviews are very important to me and they are quite clear, even has a pie chart I can click around with.
 
-2. As somebody who only goes on one holiday per year and it is quite an expense im not sure if this site is suited to me. I like that it seems like a good idea, everything is laid out easily for me to see. The destinations page is my favourite with the map and the videos, really gets me into it. The only thing is as a holiday is such a huge expense for me each year I don't know if i could take the chance of not knowing where I'm going and I don't like it.
+2. As somebody who only goes on one holiday per year and it is quite an expense I'm not sure if this site is suited to me. I like that it seems like a good idea, everything is laid out easily for me to see. The destinations page is my favourite with the map and the videos, really gets me into it. The only thing is as a holiday is such a huge expense for me each year I don't know if I could take the chance of not knowing where I'm going and I don't like it.
 
     * Website is so easy to move around.
     * It's very simple to even just apply and wait to hear back so I'm not committing to anything just yet.
 
 
-3. As a family this site does not suit our needs. It is a nice looking site, easy to move around. The possible destinations are labelled cleary, even the videos look great. The only thing that appeals as a family is the fact I can show up with nothing on the day we leave as everything is provided. I just couldn't risk going to a destionation the kids would hate as they are still young, maybe when they get older.
+3. As a family this site does not suit our needs. It is a nice looking site, easy to move around. The possible destinations are labelled clearly, even the videos look great. The only thing that appeals as a family is the fact I can show up with nothing on the day we leave as everything is provided. I just couldn't risk going to a destination the kids would hate as they are still young, maybe when they get older.
 
     * I like the fact the pages and colours are bright, very easy on the eyes.
-    * The map is easy to use, all the videos are labelled cleary and the application form too.
+    * The map is easy to use, all the videos are labelled clearly and the application form too.
 
 4. As a college student looking to have a huge summer holiday this site is brilliant. Great idea to not know where your going. The destinations page is my favourite as the places we could go are so different. I will definitely fill in this application and tell my friends about this.
 
     * Contact form is so easy to fill out.
     * The map is good to click and it brings you to the destinations immediately.
 
-5. As a couple about to get married this could make our whole honeymoon. We are looking for something different and the idea of showing up after the wedding with nothing at all, everything taken care of really appeals to me. I would like to know prices, bit of a let down they are not displated. I enjoy the whole feel of the site and will apply immediately to the contact form.
+5. As a couple about to get married this could make our whole honeymoon. We are looking for something different and the idea of showing up after the wedding with nothing at all, everything taken care of really appeals to me. I would like to know prices, bit of a let down they are not displayed. I enjoy the whole feel of the site and will apply immediately to the contact form.
 
     * Site is so easy to move around.
     * Colours are nice and bright and holiday photos compliment this.
@@ -52,7 +52,7 @@
 
 3. 3 Carousels  
     
-    * The carousels were added side by side, I had to add a different id to each carousel, as without an individual id it was not possible to click each carousel seperately.
+    * The carousels were added side by side, I had to add a different id to each carousel, as without an individual id it was not possible to click each carousel separately.
     * Media queries where added in css to target the carousels for each device and checked through developer tools.
 
 4.  Footer
