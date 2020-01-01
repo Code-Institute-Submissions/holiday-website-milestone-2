@@ -47,3 +47,24 @@ Find below the links for wireframes, they are displayed on device mobile, tablet
 [Contact Us Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2//master/assets/images/contact-us-ipad.png)/
 [Contact Us Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/contact-us-desktop.png)
 
+# Features 
+---
+### Home 
+The main feature for the home page is the hero image of the couple walking along the beach and the 3 clickable carousels at the bottom of the page. Home page is minimal and mostly an introduction to the site.
+
+### Destinations
+The destinations page has 3 main features. The first is the google map at the top of the page. This has 3 buttons you can click on which will redirect the map to each continent and have the 3 destinations listed as markers on the map. The next feature is the youtube video for each continent below the map. The final feature is 3 scrollboxes which are located to the right side of each each video that has information for each continent for the user to read.
+
+### Reviews
+The reviews page has 2 features. The first is the reviews at the top of the page for the user to read over, the second is the interactive pie chart at the bottom of the page. The user can click and look at different percentages of happy customers etc.
+
+
+### Contact Us
+The contact us page has one main feature, the form you fill in to request further information. There is a piece below this further detailing what the company does, the main thing on this page though is to fill in the form and the user will be greeted by a message of success once they click submit.
+
+
+### Future Features
+ * Having interactive reviews the user can click through, this will allow for more than just the same ones stagnant on the page.
+ * An interactive walk through video for users to click through of places they could go. This will be on the street like google maps street view style.
+ * A polling vote for future destinations, as opposed to filling in the form just click the poll.
+ * A live webchat section to speak to customers live while on the site for any queries they may have.
