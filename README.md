@@ -75,7 +75,7 @@ The contact us page has one main feature, the form you fill in to request furthe
  * HTML - I used this to build the entire site and each individual page.
  * CSS - This was used to style the html code.
  * [Bootstrap](https://getbootstrap.com/)  Bootstrap was used to make the site responsive on all devices and add the youtube vidoes and the main structure of the site.
- * [Javascript/JQuery](https://jquery.com/) This was used with bootstrap to allow you to place certain elements and functionality on your page.
+ * [JQuery](https://jquery.com/) This was used with bootstrap to allow you to place certain elements and functionality on your page.
  * [GitHub](https://github.com/) This allowed me to upload my local repository onto a remote server for access for anybody.
  * [VSCode](https://code.visualstudio.com) I used this as my ide. The local repository alonf with all my code was stored here.
  * [Google Fonts](https://fonts.google.com/) This page allowed me import a font style for my project.
@@ -83,6 +83,23 @@ The contact us page has one main feature, the form you fill in to request furthe
 
  
 ---
+
+# Deployment
+---
+This project was created with [VSCode](https://code.visualstudio.com). In order to deploy the project I have listed the steps I have taken below.
+
+* The code was written here first on my local repository with VS Code and was then deployed to github.
+* Accessing the project on Github, I would need to visit the webpage access the correct repository seleciting LiamD88/holiday-website-milestone-2.
+* Then I would select settings and scroll down until I reach the section containing source. Click source and select the master branch. The site will now be deployed as a link and avaliable to click.
+
+Then if you want to deploy this link locally you would need to clone the repository and create a local copy on your computer.  To do this I would,
+
+* Go to the main page of the repository and click clone/download, this will be located under the repository name.
+* In the section clone with HTTPS copy the clone URL and open the terminal on your IDE.
+* Change the working directory to the location you wish your cloned directory to be placed.
+* Type git clone and past in your URL you had copied earlier.
+* Now press enter and your clone will be created.
+
 
 # Credits
 ---
