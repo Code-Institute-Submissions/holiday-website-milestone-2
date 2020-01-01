@@ -34,16 +34,16 @@ The website is aimed at people not looking for your standard holiday. They are w
 ---
 Find below the links for wireframes, they are displayed on device mobile, tablet and desktop.
 
-* [Home Mobile Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/home-page-mobile.png)/ 
-[Home Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/home-page-ipad.png)/
-[Home Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/home-page-desktop.png)
-* [Destinations Mobile Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/destinations-page-mobile.png)/
-[Destinations Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/destinations-page-ipad.png)/
-[Destinations Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/destinations-page-desktop.png)
-* [Reviews Mobile Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/reviews-page-mobile.png)/
-[Reviews Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/reviews-page-ipad.png)/
-[Reviews Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/reviews-page-desktop.png)
-* [Contact Us Mobile Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/contact-us-mobile.png)/
-[Contact Us Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/contact-us-ipad.png)/
-[Contact Us Desktop Page](https://github.com/LiamD88/holiday-website-milestone-2/blob/master/assets/images/contact-us-desktop.png)
+* [Home Mobile Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/home-page-mobile.png)/ 
+[Home Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/home-page-ipad.png)/
+[Home Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/home-page-desktop.png)
+* [Destinations Mobile Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/destinations-page-mobile.png)/
+[Destinations Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/destinations-page-ipad.png)/
+[Destinations Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/destinations-page-desktop.png)
+* [Reviews Mobile Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/reviews-page-mobile.png)/
+[Reviews Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/reviews-page-ipad.png)/
+[Reviews Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/reviews-page-desktop.png)
+* [Contact Us Mobile Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/contact-us-mobile.png)/
+[Contact Us Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2//master/assets/images/contact-us-ipad.png)/
+[Contact Us Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/master/assets/images/contact-us-desktop.png)
 
