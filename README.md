@@ -80,9 +80,11 @@ The contact us page has one main feature, the form you fill in to request furthe
  * [VSCode](https://code.visualstudio.com) I used this as my ide. The local repository alonf with all my code was stored here.
  * [Google Fonts](https://fonts.google.com/) This page allowed me import a font style for my project.
  * [Auto Prefixer](https://autoprefixer.github.io/) This was used to check if my CSS was valid on all browsers.
+ ---
 
- 
+# Testing 
 ---
+[TESTING.md](https://github.com/LiamD88/holiday-website-milestone-2/blob/master/TESTING.md) This is a link to the testing done on this website.
 
 # Deployment
 ---
@@ -92,12 +94,12 @@ This project was created with [VSCode](https://code.visualstudio.com). In order 
 * Accessing the project on Github, I would need to visit the webpage access the correct repository seleciting LiamD88/holiday-website-milestone-2.
 * Then I would select settings and scroll down until I reach the section containing source. Click source and select the master branch. The site will now be deployed as a link and avaliable to click.
 
-Then if you want to deploy this link locally you would need to clone the repository and create a local copy on your computer.  To do this I would,
+Then if you want to deploy this link locally you would need to clone the repository and create a local copy on your computer.  To do this I would
 
 * Go to the main page of the repository and click clone/download, this will be located under the repository name.
 * In the section clone with HTTPS copy the clone URL and open the terminal on your IDE.
 * Change the working directory to the location you wish your cloned directory to be placed.
-* Type git clone and past in your URL you had copied earlier.
+* Type git clone and paste in your URL you had copied earlier.
 * Now press enter and your clone will be created.
 
 
@@ -108,7 +110,7 @@ Then if you want to deploy this link locally you would need to clone the reposit
 * Google maps API - I used some of the documentation google have available for the maps and manipulated it to my own needs.
 * EmailJS - I used some of the code for this that we had in an earlier lesson and then changed some of it for my own functionality.
 * [Scrollboxes](https://forum.squarespace.com/topic/36257-how-do-i-make-a-scrolling-text-box-so-i-can-keep-text-contained-within-the-box-instead-of-having-one-long-page/) This is where i got the code for the scrollboxes on the destinations page.
-* [Pie Chart](https://www.chartjs.org/) This is where I got the documentation for the pie chart I created and the manipulated for my own site.
+* [Pie Chart](https://www.chartjs.org/) This is where I got the documentation for the pie chart I created and then manipulated for my own site.
 * [Lonely Planet](https://www.lonelyplanet.com/north-america) This is where I got the text for the information on north america to use in the destinations page.
 * [Lonely Planet](https://www.lonelyplanet.com/europe) This is where I got the text for the information on europe to use in the destinations page.
 * [Lonely Planet](https://www.lonelyplanet.com/asia) This is where I got the text for the information on asia america to use in the destinations page.
