@@ -1,146 +1,118 @@
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap: 500");
-
 /* images */
-
-.contact-image {
-  background-image: url("../images/overlay.png"), url("../images/contact-us-image.jpg");
-  background-size: cover;
-  height: 90vh;
-  width: 100%;
+ .contact-image {
+     background-image: url("../images/overlay.png"), url("../images/contact-us-image.jpg");
+     background-size: cover;
+     height: 90vh;
+     width: 100%;
 }
-
-.review-image {
-  background-image:url("../images/overlay.png"), url("../images/review-image.jpg");
-  background-size: cover;
-  height: 100%;
-  width: 100%;
+ .review-image {
+     background-image:url("../images/overlay.png"), url("../images/review-image.jpg");
+     background-size: cover;
+     height: 100%;
+     width: 100%;
 }
-
 /* footer */
-.footer-text {
-  text-align: center;
+ .footer-text {
+     text-align: center;
 }
-
-.text {
-  color: #ffffff !important;
+ .text {
+     color: #ffffff !important;
 }
-
-.scrollbox {
-  height: 270px;
-  width: 100%;
-  border: 1px solid #ccc;
-  overflow: auto;
-  padding: 10px;
+ .scrollbox {
+     height: 270px;
+     width: 100%;
+     border: 1px solid #ccc;
+     overflow: auto;
+     padding: 10px;
 }
-
 /* map */
-
-#map {
-  min-height: 360px;
+ #map {
+     min-height: 360px;
 }
-
 /* text */
-
-.index-text {
-  text-align: center;
-  padding-top: 20px;
-  padding-bottom: 15px;
-  text-shadow: 0px 5px 10px #000;
+ .index-text {
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 15px;
+     text-shadow: 0px 5px 10px #000;
 }
-
-.front-page-text {
-  text-align: center;
-  padding-top: 20px;
-  font-size: 20px;
-  font-family: "Noto Sans TC", sans-serif;
-  font-weight: 500;
+ .front-page-text {
+     text-align: center;
+     padding-top: 20px;
+     font-size: 20px;
+     font-family: "Noto Sans TC", sans-serif;
+     font-weight: 500;
 }
-
-.dest-heading {
-  text-align: center;
-  padding-top: 10px;
-  text-decoration: underline;
-  text-shadow: 0px 5px 10px #000;
+ .dest-heading {
+     text-align: center;
+     padding-top: 10px;
+     text-decoration: underline;
+     text-shadow: 0px 5px 10px #000;
 }
-
-.contact-info {
-  text-align: center;
-  font-family: "Noto Sans TC", sans-serif;
-  font-weight: 500;
-  
+ .contact-info {
+     text-align: center;
+     font-family: "Noto Sans TC", sans-serif;
+     font-weight: 500;
 }
-
-.map-header {
-  text-align: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
+ .map-header {
+     text-align: center;
+     padding-top: 10px;
+     padding-bottom: 10px;
 }
-
 /* background colours */
-
-.main-background {
-  background-color: #ffffff;
+ .main-background {
+     background-color: #ffffff;
 }
-
-.alt-bg {
-  background-color: #2f6e91;
+ .alt-bg {
+     background-color: #2f6e91;
 }
-
-.navbar-light .navbar-nav .nav-link {
-  color: #ffffff;
+ .navbar-light .navbar-nav .nav-link {
+     color: #ffffff;
 }
-
-.scrollbox-bg {
-  background-color: #aed0e0;
+ .scrollbox-bg {
+     background-color: #aed0e0;
 }
-
 /* media queries */
-
-@media (min-width: 300px) {
-  .carousel .image-size {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    height: 12em;
-  }
+ @media (min-width: 300px) {
+     .carousel .image-size {
+         position: relative;
+         width: 100%;
+         overflow: hidden;
+         height: 12em;
+    }
 }
-
-@media (min-width: 768px) {
-  .carousel .image-size {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    height: 13em;
-  }
+ @media (min-width: 768px) {
+     .carousel .image-size {
+         position: relative;
+         width: 100%;
+         overflow: hidden;
+         height: 13em;
+    }
 }
-
-@media (min-width: 992px) {
-  .carousel .image-size {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    height: 13em;
-  }
+ @media (min-width: 992px) {
+     .carousel .image-size {
+         position: relative;
+         width: 100%;
+         overflow: hidden;
+         height: 13em;
+    }
 }
-
-@media (min-width: 1025px) {
-  .carousel .image-size {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    height: 12em;
-  }
+ @media (min-width: 1025px) {
+     .carousel .image-size {
+         position: relative;
+         width: 100%;
+         overflow: hidden;
+         height: 12em;
+    }
 }
-
-.video {
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 0;
-  padding-right: 0;
+ .video {
+     padding-top: 0;
+     padding-bottom: 0;
+     padding-left: 0;
+     padding-right: 0;
 }
-
-
-.chart-body {
-  width: 500px;
-  height: 600px;
+ .chart-body {
+     width: 500px;
+     height: 600px;
 }
