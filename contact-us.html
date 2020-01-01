@@ -1,154 +1,118 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="assets/css/style.css">
-  <title>Funtasia Holidays</title>
-</head>
-
-<body>
-
-  <header>
-    <!--nav-bar-->
-    <nav class="navbar navbar-expand-lg navbar-light alt-bg">
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          <a class="nav-item nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link" href="destinations.html">Destinations</a>
-          <a class="nav-item nav-link" href="reviews.html">Reviews</a>
-          <a class="nav-item nav-link active" href="contact-us.html">Contact Us</a>
-        </div>
-      </div>
-    </nav>
-    <!--nav-bar-->
-  </header>
-
-  <section class="contact-image">
-
-    <div class="container-fluid">
-      <!--input form at top of page -->
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <form id="myForm" onsubmit="return sendForm(this);">
-              <div class="form-group">
-                <label for="exampleFormControlInput1" class="text-white">Full Name</label>
-                <input type="text" class="form-control w-50" id="fullname" placeholder="First/Last Name">
-              </div>
-              <div class="form-group">
-                <label for="exampleFormControlInput1" class="text-white">Date Of Birth</label>
-                <input type="text" class="form-control w-50" id="dateofbirth" placeholder="DD/MM/YY">
-              </div>
-              <div class="form-group">
-                <label for="exampleFormControlInput1" class="text-white">Email address</label>
-                <input type="email" class="form-control w-50" id="emailaddress" placeholder="name@example.com">
-              </div>
-
-
-              <div class="form-group w-100">
-                <label for="exampleFormControlTextarea1" class="text-white">Further Info / Future Destination Requests</label>
-                <textarea class="form-control w-50" id="furtherinfo" rows="3"></textarea>
-              </div>
-              <button type="submit" class="btn1 btn-primary" data-toggle="modal" data-target="#myModal" class="close"
-                data-dismiss="modal" onclick="this.form.reset()">Submit</button>
-            </form>
-          
-          </div>
-        </div>
-      </div>
-
-          
-     
-      <!--end of input form-->
-
-
-
-
-      <!--text under input form with image behind text-->
-
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <p class="contact-info text-white">Here at Funtasia Holidays we will bring you to an unknown destination while looking
-              after all your needs.</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12">
-            <p class="contact-info text-white">Our package will include everything from accomodation, to your clothes as we want to
-              keep the element of suprise. You just simply have to show up on the day.</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-12">
-            <p class="contact-info text-white">If you want to apply for one of our suprise packages please fill in the form above,
-              we will be in touch shortly to discuss further.</p>
-          </div>
-        </div>
-
-      </div>
-    </div>
-    </div>
-    </div>
-
-
-
-
-
-
-
-
-  </section>
-
-
-  <footer>
-
-    <div class="container-fluid alt-bg">
-      <div class="row">
-        <div class="col-12 footer-text">
-          <h3 class="text">Funtasia Holidays</h3>
-        </div>
-      </div>
-    </div>
-
-<!--this is the modal for when you press the submit button-->
-    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-    aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-body">
-
-          <h3>Thank you for your request, we will be in touch soon!!</h3>
-        </div>
-        
-      </div>
-    </div>
-  </div>
-
-  </footer>
-
-
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-  </script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
-    integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous">
-  </script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-    integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous">
-  </script>
-  <script src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
-  <script src="assets/js/contact-form.js"></script>
-
-</body>
-
+   <!--below is the head this contains links to bootstrap and my css-->
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="assets/css/style.css">
+      <title>Funtasia Holidays</title>
+   </head>
+   <body>
+      <header>
+         <!--nav-bar-->
+         <nav class="navbar navbar-expand-lg navbar-light alt-bg">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+               aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+               <div class="navbar-nav">
+                  <a class="nav-item nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-item nav-link" href="destinations.html">Destinations</a>
+                  <a class="nav-item nav-link" href="reviews.html">Reviews</a>
+                  <a class="nav-item nav-link active" href="contact-us.html">Contact Us</a>
+               </div>
+            </div>
+         </nav>
+         <!--nav-bar-->
+      </header>
+      <section class="contact-image">
+         <div class="container-fluid">
+            <!--input form at top of page -->
+            <div class="container">
+               <div class="row">
+                  <div class="col-12">
+                     <form id="myForm" onsubmit="return sendForm(this);">
+                        <div class="form-group">
+                           <label for="exampleFormControlInput1" class="text-white">Full Name</label>
+                           <input type="text" class="form-control w-50" id="fullname" placeholder="First/Last Name">
+                        </div>
+                        <div class="form-group">
+                           <label for="exampleFormControlInput1" class="text-white">Date Of Birth</label>
+                           <input type="text" class="form-control w-50" id="dateofbirth" placeholder="DD/MM/YY">
+                        </div>
+                        <div class="form-group">
+                           <label for="exampleFormControlInput1" class="text-white">Email address</label>
+                           <input type="email" class="form-control w-50" id="emailaddress" placeholder="name@example.com">
+                        </div>
+                        <div class="form-group w-100">
+                           <label for="exampleFormControlTextarea1" class="text-white">Further Info / Future Destination Requests</label>
+                           <textarea class="form-control w-50" id="furtherinfo" rows="3"></textarea>
+                        </div>
+                        <button type="submit" class="btn1 btn-primary" data-toggle="modal" data-target="#myModal" class="close"
+                           data-dismiss="modal" onclick="this.form.reset()">Submit</button>
+                     </form>
+                  </div>
+               </div>
+            </div>
+            <!--end of input form-->
+            <!--text under input form with image behind text-->
+            <div class="container">
+               <div class="row">
+                  <div class="col-12">
+                     <p class="contact-info text-white">Here at Funtasia Holidays we will bring you to an unknown destination while looking
+                        after all your needs.
+                     </p>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-12">
+                     <p class="contact-info text-white">Our package will include everything from accomodation, to your clothes as we want to
+                        keep the element of suprise. You just simply have to show up on the day.
+                     </p>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-12">
+                     <p class="contact-info text-white">If you want to apply for one of our suprise packages please fill in the form above,
+                        we will be in touch shortly to discuss further.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <footer>
+         <div class="container-fluid alt-bg">
+            <div class="row">
+               <div class="col-12 footer-text">
+                  <h3 class="text">Funtasia Holidays</h3>
+               </div>
+            </div>
+         </div>
+         <!--this is the modal for when you press the submit button-->
+         <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-body">
+                     <h3>Thank you for your request, we will be in touch soon!!</h3>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!--this is the bootstrap jquery CDN to enable functionality for carousels, modals etc also contains links to my external javascript file for the form-->
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+         integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+         integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
+      <script src="assets/js/contact-form.js"></script>
+   </body>
 </html>
