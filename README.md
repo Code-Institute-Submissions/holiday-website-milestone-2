@@ -45,5 +45,5 @@ Find below the links for wireframes, they are displayed on device mobile, tablet
 [Reviews Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/reviews-page-desktop.png)
 * [Contact Us Mobile Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/contact-us-mobile.png)/
 [Contact Us Tablet Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/contact-us-ipad.png)/
-[Contact Us Desktop Page](https://raw.githubusercontent.com/LiamD88/holiday-website-milestone-2/tree/master/assets/images/contact-us-desktop.png)
+[Contact Us Desktop Page](https://github.com/LiamD88/holiday-website-milestone-2/blob/master/assets/images/contact-us-desktop.png)
 
