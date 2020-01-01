@@ -68,3 +68,36 @@ The contact us page has one main feature, the form you fill in to request furthe
  * An interactive walk through video for users to click through of places they could go. This will be on the street like google maps street view style.
  * A polling vote for future destinations, as opposed to filling in the form just click the poll.
  * A live webchat section to speak to customers live while on the site for any queries they may have.
+
+  # Technologies Used
+---
+ * Javascript - This was used to add the google map funtionality, the pie chart functionality and the contact form functionality.
+ * HTML - I used this to build the entire site and each individual page.
+ * CSS - This was used to style the html code.
+ * [Bootstrap](https://getbootstrap.com/)  Bootstrap was used to make the site responsive on all devices and add the youtube vidoes and the main structure of the site.
+ * [Javascript/JQuery](https://jquery.com/) This was used with bootstrap to allow you to place certain elements and functionality on your page.
+ * [GitHub](https://github.com/) This allowed me to upload my local repository onto a remote server for access for anybody.
+ * [VSCode](https://code.visualstudio.com) I used this as my ide. The local repository alonf with all my code was stored here.
+ * [Google Fonts](https://fonts.google.com/) This page allowed me import a font style for my project.
+ * [Auto Prefixer](https://autoprefixer.github.io/) This was used to check if my CSS was valid on all browsers.
+
+ 
+---
+
+# Credits
+---
+## Content 
+* Bootstrap - I used some documentation in here and the code allowed me to build some of my site and expand on it.
+* Google maps API - I used some of the documentation google have available for the maps and manipulated it to my own needs.
+* EmailJS - I used some of the code for this that we had in an earlier lesson and then changed some of it for my own functionality.
+* [Scrollboxes](https://forum.squarespace.com/topic/36257-how-do-i-make-a-scrolling-text-box-so-i-can-keep-text-contained-within-the-box-instead-of-having-one-long-page/) This is where i got the code for the scrollboxes on the destinations page.
+* [Pie Chart](https://www.chartjs.org/) This is where I got the documentation for the pie chart I created and the manipulated for my own site.
+* [Lonely Planet](https://www.lonelyplanet.com/north-america) This is where I got the text for the information on north america to use in the destinations page.
+* [Lonely Planet](https://www.lonelyplanet.com/europe) This is where I got the text for the information on europe to use in the destinations page.
+* [Lonely Planet](https://www.lonelyplanet.com/asia) This is where I got the text for the information on asia america to use in the destinations page.
+
+## Media 
+* All images on the web page are from taken from Google
+
+## Acknowledgements
+* My mentor [Reuben Ferrante](https://github.com/arex18), he really helped me out when needed on this project and his advice helped me to construct the site to what it is.
