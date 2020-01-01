@@ -1,4 +1,4 @@
-[View webite on Github Pages](https://github.com/LiamD88/holiday-website-milestone-2)
+[View webite on Github Pages](https://liamd88.github.io/holiday-website-milestone-2/)
 
 [Main README File](https://github.com/LiamD88/holiday-website-milestone-2/blob/master/README.md)
 
